@@ -21,18 +21,18 @@ const spinValues = [
 const size = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10];
 /* --------------- Background Colors  --------------------- */
 var spinColors = [
-  "#E74C3C",
-  "#7D3C98",
-  "#2E86C1",
-  "#138D75",
-  "#F1C40F",
-  "#D35400",
-  "#138D75",
-  "#F1C40F",
-  "#b163da",
-  "#E74C3C",
-  "#7D3C98",
-  "#138D75",
+  "#ED7657",
+  "#61C9C8",
+  "#F7E0B2",
+  "#ED7657",
+  "#61C9C8",
+  "#F7E0B2",
+  "#ED7657",
+  "#61C9C8",
+  "#F7E0B2",
+  "#ED7657",
+  "#61C9C8",
+  "#F7E0B2",
 ];
 /* --------------- Chart --------------------- */
 /* --------------- Guide : https://chartjs-plugin-datalabels.netlify.app/guide/getting-started.html --------------------- */
